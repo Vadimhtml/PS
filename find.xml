@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.styl" />
+    <option name="FILE_MASK" value="*.stories.tsx" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -28,8 +28,8 @@
       <mask>*.js</mask>
       <mask>*.tsx</mask>
       <mask>*.ts</mask>
-      <mask>*.stories.tsx</mask>
       <mask>*.styl</mask>
+      <mask>*.stories.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
